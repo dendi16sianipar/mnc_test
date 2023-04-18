@@ -60,6 +60,7 @@ Response
 ### Payment
 
 #### POST /payment
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 Request
 
